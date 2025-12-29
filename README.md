@@ -10,6 +10,10 @@ This repository contains the reference hardware designs for the Clarigggz AR pla
 - `/mechanical`: CAD files (FreeCAD/SolidWorks) for Reference Frames and industrial design.
 - `/docs`: Assembly guides, Bill of Materials (BOM), and manufacturing documentation.
 
+## Revision Control
+
+Hardware revisions follow a `Rev [Letter]` format (e.g., Rev A, Rev B). Major architectural changes are tagged in git and synchronized with the CDD versioning.
+
 ## Licensing
 
 We use a permissive licensing matrix to maximize adoption and trust with manufacturing partners:
