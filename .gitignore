@@ -1,0 +1,28 @@
+# CAD/Mechanical
+*.bak
+*.tmp
+*.swp
+*~
+*.lock
+
+# Electronics (KiCad/Altium)
+*-backups/
+*.kicad_pcb-bak
+*.sch-bak
+fp-info-cache
+*.pro
+*.pyc
+
+# Silicon/RTL
+*.vcd
+*.log
+work/
+obj_dir/
+*.o
+*.a
+
+# OS/Docs
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
